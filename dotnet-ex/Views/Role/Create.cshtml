@@ -1,0 +1,23 @@
+@model dotnet_ex.Models.RoleCreateModel
+@{
+    Layout = "_AdminLayout";
+}
+
+<main class="create-form-container">
+    <div class="create-form-box">
+        <h2>Yeni Rol Ekle</h2>
+        <form method="post" novalidate>
+            <div asp-validation-summary="All" class="text-danger"></div>
+
+            <div class="create-form-group">
+                <label asp-for="RoleName"></label>
+                <input asp-for="RoleName" class="create-input" placeholder="Rol adını giriniz..." />
+                <span asp-validation-for="RoleName" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="create-btn-submit">
+                <i class="fas fa-save"></i> Kaydet
+            </button>
+        </form>
+    </div>
+</main>

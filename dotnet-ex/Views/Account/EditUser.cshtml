@@ -1,0 +1,30 @@
+@model dotnet_ex.Models.EditUserModel
+
+<main>
+    <div class="form-box">
+        <h2>Bilgileri Güncelle</h2>
+
+        <div class="btn" style="margin-bottom:15px;">
+            <a asp-controller="Account" asp-action="EditUser" class="btn">Kullanıcı Bilgilerini Güncelle</a>
+            <a asp-controller="Account" asp-action="ChangePassword" class="btn">Şifre Güncelle</a>
+        </div>
+
+        <form method="post" novalidate>
+            <div asp-validation-summary="All" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="FullName"></label>
+                <input asp-for="FullName" class="form-control" />
+                <span asp-validation-for="FullName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Email"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn-submit">Güncelle</button>
+        </form>
+    </div>
+</main>

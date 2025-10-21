@@ -1,0 +1,515 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.6rem;
+  background: #fff;
+  color: #333;
+  line-height: 1.6;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+h1,
+h2 {
+  padding: 20px;
+  color: #fff;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+p {
+  margin: 1rem 0;
+}
+
+.text-center {
+  text-align: center;
+}
+
+/* navbar */
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: black;
+  opacity: 0.9;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 70px;
+  padding: 0 3rem;
+  z-index: 1000;
+}
+
+.navbar a {
+  color: #fff;
+  padding: 1rem 2rem;
+  margin: 0 0.5rem;
+}
+
+.navbar a:hover {
+  border-bottom: 2px solid #ffc107;
+}
+
+.navbar ul {
+  display: flex;
+}
+
+.navbar .brand {
+  font-weight: 400;
+}
+
+.navbar h1 {
+  font-size: 50px;
+}
+
+.navbar span {
+  color: #ffc107;
+}
+
+/* Buton Tasarımı */
+.btn {
+  cursor: pointer;
+  display: inline-block;
+  padding: 10px 30px;
+  border: none;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  opacity: 0.9;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #ffc107;
+}
+
+.btn-secondary {
+  color: #fff;
+  background-color: red;
+}
+
+.btn-action {
+  background-color: red;
+  border: none;
+  padding: 6px 10px;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  margin-right: 5px;
+  font-size: 14px;
+}
+
+.btn-action i {
+  pointer-events: none;
+}
+
+.btn-action:hover {
+  background-color: red;
+}
+
+/* container ve tablo */
+.container {
+  max-width: 1200px;
+  margin: 100px auto 20px auto; /* navbar ile çakışmasın diye üst boşluk */
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  overflow-x: auto;
+}
+
+h2 {
+  margin-bottom: 20px;
+  color: #333;
+  padding: 0;
+}
+
+/* tablo */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 1000px;
+  margin-top: 10px;
+}
+
+thead {
+  background-color: black;
+  color: white;
+}
+
+th,
+td {
+  padding: 15px 20px;
+  text-align: left;
+  vertical-align: middle;
+}
+
+tbody tr {
+  border-bottom: 1px solid #ddd;
+}
+
+tbody tr:hover {
+  background-color: #f9f9f9;
+}
+
+.product-img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+.action-icons i {
+  font-size: 18px;
+  margin-right: 12px;
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+
+.fa-edit {
+  color: #28a745;
+}
+
+.fa-edit:hover {
+  color: #1e7e34;
+}
+
+.fa-trash {
+  color: #dc3545;
+}
+
+.fa-trash:hover {
+  color: #bd2130;
+}
+
+/* kategori ve ürün ekle */
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0;
+}
+
+.card-header h2 {
+  margin: 0;
+  font-size: 22px;
+}
+
+.btn-add {
+  background-color: #007bff;
+  color: white;
+  padding: 8px 12px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.btn-add i {
+  margin-right: 5px;
+}
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.6rem;
+  background: #fff;
+  color: #333;
+  line-height: 1.6;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+h2 {
+  padding: 20px;
+  color: black;
+  font-weight: 300;
+  line-height: 1.2;
+}
+h1 {
+  padding: 20px;
+  color: #fff;
+  font-weight: 300;
+  line-height: 1.2;
+}
+p {
+  margin: 1rem 0;
+}
+
+.text-center {
+  text-align: center;
+}
+.btn {
+  cursor: pointer;
+  display: inline-block;
+  padding: 10px 30px;
+  border: none;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  opacity: 0.9;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #ffc107;
+}
+.btn-danger {
+  cursor: pointer;
+  display: inline-block;
+  padding: 10px 30px;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  background-color: red;
+}
+
+/* navbar */
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* logo sola, menü sağa */
+  background-color: black;
+  opacity: 0.9;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 70px;
+  padding: 0 3rem;
+  z-index: 1000;
+}
+
+.navbar ul {
+  display: flex;
+  margin-left: auto; /* butonları sağa it */
+}
+
+.navbar a {
+  color: #fff;
+  padding: 1rem 2rem;
+  margin: 0 0.5rem;
+}
+
+.navbar a:hover {
+  border-bottom: 2px solid #ffc107;
+}
+
+.navbar .brand {
+  font-weight: 400;
+}
+
+.navbar h1 {
+  font-size: 50px;
+}
+
+.navbar span {
+  color: #ffc107;
+}
+
+.form-container {
+  display: flex;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  max-width: 1000px;
+  margin: 100px auto 20px auto;
+}
+
+.form-left {
+  flex: 2;
+  padding: 30px;
+}
+
+.form-right {
+  flex: 1;
+  border-left: 1px solid #ddd;
+  padding: 30px;
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin: 10px 0 5px;
+  font-weight: bold;
+}
+
+input[type="text"],
+input[type="number"],
+select,
+textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  margin-bottom: 15px;
+  font-size: 14px;
+}
+
+textarea {
+  resize: vertical;
+}
+
+.form-right img {
+  width: 100%;
+  max-height: 200px;
+  object-fit: contain;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+input[type="file"] {
+  display: block;
+  margin: 10px auto;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+header nav .btn i {
+  margin-right: 6px;
+}
+
+/* sadece create sayfası için */
+.create-form-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  margin-top: 100px; /* navbar boşluğu */
+}
+
+.create-form-box {
+  width: 100%;
+  max-width: 500px;
+  padding: 30px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.create-form-box h2 {
+  text-align: center;
+  margin-bottom: 25px;
+  color: #333;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.create-form-group {
+  margin-bottom: 20px;
+}
+
+.create-input {
+  width: 100%;
+  padding: 12px 14px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 15px;
+  transition: border-color 0.3s ease;
+}
+
+.create-input:focus {
+  border-color: #007bff;
+  outline: none;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.3);
+}
+
+.create-btn-submit {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  background-color: #007bff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.create-btn-submit:hover {
+  background-color: #0056b3;
+}
+
+.text-danger {
+  font-size: 14px;
+}
+/* Checkbox alanı için */
+.create-form-group .form-check {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.create-form-group .form-check-input {
+  width: 18px;
+  height: 18px;
+  margin-right: 10px;
+  cursor: pointer;
+  accent-color: #0a1a2f; /* Checkbox işaretleme rengi (modern tarayıcılarda) */
+}
+
+.create-form-group .form-check-label {
+  font-size: 15px;
+  color: #333;
+  cursor: pointer;
+}
+
+/* Checkbox alanının etrafında kutucuk görünümü */
+.create-form-group.roles-box {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  background-color: #f9f9f9;
+}

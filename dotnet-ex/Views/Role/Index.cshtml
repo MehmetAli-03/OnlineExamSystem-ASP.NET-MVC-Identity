@@ -1,0 +1,54 @@
+@using Microsoft.AspNetCore.Identity
+@model IEnumerable<dotnet_ex.Models.AppRole>
+
+@{
+    Layout = "_AdminLayout";
+}
+
+<div class="container" id="roller">
+    <div class="card-header">
+        <h2>Roller Listesi</h2>
+        <a asp-action="Create" class="btn btn-primary">
+            <i class="fas fa-plus"></i> Rol Ekle
+        </a>
+    </div>
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Role Id</th>
+                <th>Role Adı</th>
+                <th>İşlemler</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                foreach (var role in Model)
+                {
+                    <tr>
+                        <td>@role.Id</td>
+                        <td>@role.Name</td>
+                        <td class="action-icons">
+                  <!-- Edit linki -->
+                <a asp-action="Edit" asp-route-id="@role.Id">
+                <i class="fas fa-edit"></i>
+                     </a>
+
+                <!-- Delete linki (onay sayfasına yönlendirir) -->
+                <a asp-action="Delete" asp-route-id="@role.Id" class="text-danger">
+                  <i class="fas fa-trash"></i>
+                </a>
+</td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="3" class="text-center text-muted">Hiç rol bulunamadı.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

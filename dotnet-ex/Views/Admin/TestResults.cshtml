@@ -1,0 +1,40 @@
+@model List<dotnet_ex.Models.TestResult>
+
+@{
+    Layout = "_AdminLayout";
+}
+
+<div class="container" id="testResults">
+    <div class="card-header d-flex justify-content-between align-items-center mb-3">
+        <h2>Test Sonuçları</h2>
+    </div>
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Kullanıcı</th>
+                <th>Test</th>
+                <th>Doğru</th>
+                <th>Yanlış</th>
+                <th>Toplam Soru</th>
+                <th>Başarı Yüzdesi</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Count; i++)
+            {
+                var r = Model[i];
+                <tr>
+                    <td>@(i + 1)</td>
+                    <td>@r.AppUser.FullName</td>
+                    <td>@r.Test.Title</td>
+                    <td>@r.TotalScore</td>
+                    <td>@(r.TotalQuestions - r.TotalScore)</td>
+                    <td>@r.TotalQuestions</td>
+                    <td>@((r.TotalScore * 100) / r.TotalQuestions)%</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

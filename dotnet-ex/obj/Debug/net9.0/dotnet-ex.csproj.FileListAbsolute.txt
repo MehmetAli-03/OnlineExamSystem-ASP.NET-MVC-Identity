@@ -1,0 +1,439 @@
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\appsettings.json
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\dotnet-ex.staticwebassets.runtime.json
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\dotnet-ex.staticwebassets.endpoints.json
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\dotnet-ex.exe
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\dotnet-ex.deps.json
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\dotnet-ex.runtimeconfig.json
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\dotnet-ex.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\dotnet-ex.pdb
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\Humanizer.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\dotnet-ex.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\dotnet-ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\dotnet-ex.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\dotnet-ex.AssemblyInfo.cs
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\dotnet-ex.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\dotnet-ex.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\dotnet-ex.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\dotnet-ex.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\scopedcss\bundle\dotnet-ex.styles.css
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\7pknafi1p1-61n19gt1b8.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\y6yubs2j9s-xtxxf3hu2r.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\gerc27c7x4-bqjiyaj88i.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\uzcxcqp5tg-c2jlpeoesf.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\djs3lhaxey-erw9l3u2r3.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\fybj71azr6-aexeepp0ev.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\0hi8rajyzh-d7shbmvgxk.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\qzxy2jrjpd-ausgxo2sd3.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\kj7jg11rvt-k8d9w2qqmf.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\ckpmuu853l-cosvhxvwiu.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\9lrczpbc5r-ub07r2b239.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\vh18k80opu-fvhpjtyr6v.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\e539w5c5h0-b7pk76d08c.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\797wog2a05-fsbi9cje9m.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\a7i6vmuq6r-rzd6atqjts.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\copjqrnwkx-ee0r1s7dh0.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\m680duwx8e-dxx9fxp4il.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\3rrv3isj4r-jd9uben2k1.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\9j86s62zs8-khv3u5hwcm.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\cvbw97krzt-r4e9w2rdcm.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\yi5znn3p8e-lcd1t2u6c8.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\4eu34ul49k-c2oey78nd0.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\3xadec7dlh-tdbxkamptv.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\qoisv7ako8-j5mq2jizvt.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\79f3238o0d-06098lyss8.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\em1hvjzn68-nvvlpmu67g.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\8ubifcjxi3-s35ty4nyc5.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\b0b3szu0f6-pj5nd1wqec.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\hrh72xsr65-46ein0sx1k.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\w88g7o7g5x-v0zj4ognzu.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\a1bkbpet6i-37tfw0ft22.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\rs0jf8yocq-hrwsygsryq.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\2pxm26vnln-pk9g2wxc8p.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\wt1i455zw5-ft3s53vfgj.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\7mlqzvi4bc-6cfz1n2cew.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\x1p69jx9pq-6pdc2jztkx.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\umvfyafdxz-493y06b0oq.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\x3ge2vs7wn-iovd86k7lj.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\ax6ouqxlun-vr1egmr9el.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\vihrpsw40q-kbrnm935zg.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\6317lrwch9-jj8uyg4cgr.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\nl6auwy7rl-y7v9cxd14o.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\e6xukehfik-notf2xhcfb.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\9jck0dg38h-h1s4sie4z3.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\vi22kqfwpu-63fj8s7r0e.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\wpnv9iaas1-0j3bgjxly4.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\nny9spum28-47otxtyo56.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\i4vm2ho3h6-4v8eqarkd7.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\gauwlkvue6-356vix0kms.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\m4ge1j7pv7-83jwlth58m.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\otrerv9jzx-mrlpezrjn3.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\9slgpxa13k-lzl9nlhx6b.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\bytrdbkzu4-ag7o75518u.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\dnicu23uab-x0q3zqp4vz.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\zrisko0ow7-0i3buxo5is.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\wbmepcgcoo-o1o13a6vjx.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\pcghm0efmg-ttgo8qnofa.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\dhl9p8x7cs-2z0ns9nrw6.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\joxx9ml9yy-muycvpuwrr.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\5aoihi058e-87fc7y1x7t.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\fwig0s2dy3-mlv21k5csn.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\staticwebassets\msbuild.dotnet-ex.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\staticwebassets\msbuild.dotnet-ex.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\staticwebassets\msbuild.build.dotnet-ex.props
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.dotnet-ex.props
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.dotnet-ex.props
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\dotnet-ex.csproj.Up2Date
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\dotnet-ex.dll
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\refint\dotnet-ex.dll
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\dotnet-ex.pdb
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\dotnet-ex.genruntimeconfig.cache
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\ref\dotnet-ex.dll
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\63shrrd6nt-utwp5fpe09.gz
+C:\Users\HP\Desktop\dotnet-ex\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\hfmtm94200-yau8v8r9vx.gz
+C:\Users\HP\Desktop\dotnet-ex\obj\Debug\net9.0\compressed\jl1j6whbz8-4dtc5i5ok6.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\appsettings.json
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\dotnet-ex.staticwebassets.endpoints.json
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\dotnet-ex.staticwebassets.runtime.json
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\dotnet-ex.exe
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\dotnet-ex.deps.json
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\dotnet-ex.runtimeconfig.json
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\dotnet-ex.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\dotnet-ex.pdb
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\Humanizer.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\dotnet-ex.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\dotnet-ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\dotnet-ex.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\dotnet-ex.AssemblyInfo.cs
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\dotnet-ex.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\dotnet-ex.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\dotnet-ex.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\dotnet-ex.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\scopedcss\bundle\dotnet-ex.styles.css
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\jl1j6whbz8-4dtc5i5ok6.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\7pknafi1p1-61n19gt1b8.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\y6yubs2j9s-xtxxf3hu2r.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\gerc27c7x4-bqjiyaj88i.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\uzcxcqp5tg-c2jlpeoesf.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\djs3lhaxey-erw9l3u2r3.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\fybj71azr6-aexeepp0ev.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\0hi8rajyzh-d7shbmvgxk.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\qzxy2jrjpd-ausgxo2sd3.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\kj7jg11rvt-k8d9w2qqmf.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\ckpmuu853l-cosvhxvwiu.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\9lrczpbc5r-ub07r2b239.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\vh18k80opu-fvhpjtyr6v.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\e539w5c5h0-b7pk76d08c.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\797wog2a05-fsbi9cje9m.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\a7i6vmuq6r-rzd6atqjts.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\copjqrnwkx-ee0r1s7dh0.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\m680duwx8e-dxx9fxp4il.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\3rrv3isj4r-jd9uben2k1.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\9j86s62zs8-khv3u5hwcm.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\cvbw97krzt-r4e9w2rdcm.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\yi5znn3p8e-lcd1t2u6c8.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\4eu34ul49k-c2oey78nd0.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\3xadec7dlh-tdbxkamptv.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\qoisv7ako8-j5mq2jizvt.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\79f3238o0d-06098lyss8.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\em1hvjzn68-nvvlpmu67g.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\8ubifcjxi3-s35ty4nyc5.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\b0b3szu0f6-pj5nd1wqec.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\hrh72xsr65-46ein0sx1k.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\w88g7o7g5x-v0zj4ognzu.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\a1bkbpet6i-37tfw0ft22.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\rs0jf8yocq-hrwsygsryq.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\2pxm26vnln-pk9g2wxc8p.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\wt1i455zw5-ft3s53vfgj.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\7mlqzvi4bc-6cfz1n2cew.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\x1p69jx9pq-6pdc2jztkx.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\umvfyafdxz-493y06b0oq.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\x3ge2vs7wn-iovd86k7lj.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\ax6ouqxlun-vr1egmr9el.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\vihrpsw40q-kbrnm935zg.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\6317lrwch9-jj8uyg4cgr.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\nl6auwy7rl-y7v9cxd14o.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\e6xukehfik-notf2xhcfb.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\9jck0dg38h-h1s4sie4z3.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\vi22kqfwpu-63fj8s7r0e.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\wpnv9iaas1-0j3bgjxly4.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\nny9spum28-47otxtyo56.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\i4vm2ho3h6-4v8eqarkd7.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\gauwlkvue6-356vix0kms.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\m4ge1j7pv7-83jwlth58m.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\otrerv9jzx-mrlpezrjn3.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\9slgpxa13k-lzl9nlhx6b.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\bytrdbkzu4-ag7o75518u.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\dnicu23uab-x0q3zqp4vz.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\zrisko0ow7-0i3buxo5is.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\wbmepcgcoo-o1o13a6vjx.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\pcghm0efmg-ttgo8qnofa.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\dhl9p8x7cs-2z0ns9nrw6.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\joxx9ml9yy-muycvpuwrr.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\5aoihi058e-87fc7y1x7t.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\fwig0s2dy3-mlv21k5csn.gz
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\staticwebassets\msbuild.dotnet-ex.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\staticwebassets\msbuild.dotnet-ex.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\staticwebassets\msbuild.build.dotnet-ex.props
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.dotnet-ex.props
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.dotnet-ex.props
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\dotnet-ex.csproj.Up2Date
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\dotnet-ex.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\refint\dotnet-ex.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\dotnet-ex.pdb
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\dotnet-ex.genruntimeconfig.cache
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\ref\dotnet-ex.dll
+C:\Users\HP\Desktop\web örneklerim\dotnet-ex\obj\Debug\net9.0\compressed\hfmtm94200-e6oa7xrbfb.gz

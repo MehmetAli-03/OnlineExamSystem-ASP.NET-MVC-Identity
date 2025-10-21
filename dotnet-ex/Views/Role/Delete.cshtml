@@ -1,0 +1,23 @@
+@model dotnet_ex.Models.AppRole
+@{
+    Layout = "_AdminLayout";
+}
+
+<div class="container mt-4">
+    <div class="card p-4">
+        <h2>Rol Silme Onayı</h2>
+        <p>
+            <strong>@Model.Name</strong> adlı rolü silmek istediğinize emin misiniz?
+        </p>
+
+        <form asp-action="Delete" method="post">
+            <input type="hidden" asp-for="Id" />
+            <button type="submit" class="btn btn-danger">
+                <i class="fas fa-trash"></i> Sil
+            </button>
+            <a asp-action="Index" class="btn btn-secondary">
+                <i class="fas fa-times"></i> Vazgeç
+            </a>
+        </form>
+    </div>
+</div>

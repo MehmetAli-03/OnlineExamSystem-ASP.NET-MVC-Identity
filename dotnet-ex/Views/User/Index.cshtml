@@ -1,0 +1,51 @@
+@using Microsoft.AspNetCore.Identity
+@model IEnumerable<AppUser>
+
+@{
+    Layout = "_AdminLayout";
+}
+
+<div class="container" id="urunler">
+    <div class="card-header">
+        <h2>Kullanıcı Listesi</h2>
+        <a asp-action="Create" class="btn btn-primary">
+            <i class="fas fa-plus"></i> Kullanıcı Ekle
+        </a>
+    </div>
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Öğrenci Id</th>
+                <th>Öğrenci Adı</th>
+                <th>Öğrenci Numarası</th>
+                <th>Öğrenci Bölümü</th>
+                <th>Öürenci Mail</th>
+                <th>İşlemler</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in Model)
+            {
+                <tr>
+                    <td>@user.Id</td>
+                    <td>@user.UserName</td>
+                    <td>@user.StudentNo</td>
+                    <td>@user.ClassInfo</td>
+                    <td>@user.Email</td>
+                    <td class="action-icons">
+                        <a asp-action="Edit" asp-route-id="@user.Id"><i class="fas fa-edit"></i></a>
+
+        
+                        <form asp-action="Delete" asp-route-id="@user.Id" method="post">
+                            
+                      <i class="fas fa-trash"></i>
+                        
+                        </form>
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

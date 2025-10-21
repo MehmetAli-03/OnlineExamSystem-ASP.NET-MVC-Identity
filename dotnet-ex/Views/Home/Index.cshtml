@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@if (User.Identity?.IsAuthenticated == true)
+{
+      @await Html.PartialAsync("Partials/_HeroLogin")
+}
+
+else
+{
+@await Html.PartialAsync("Partials/_Hero")
+}
+
+

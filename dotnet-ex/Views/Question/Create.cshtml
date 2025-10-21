@@ -1,0 +1,60 @@
+@model dotnet_ex.Models.ViewModels.QuestionCreateViewModel
+@{
+    Layout = "_AdminLayout";
+}
+
+<main class="create-form-container">
+    <div class="create-form-box">
+        <h2>Yeni Soru Ekle</h2>
+        <form method="post" asp-action="Create" novalidate>
+            <div asp-validation-summary="All" class="text-danger"></div>
+
+            <div class="create-form-group">
+                <label asp-for="Text"></label>
+                <input asp-for="Text" class="create-input" placeholder="Soruyu giriniz..." />
+                <span asp-validation-for="Text" class="text-danger"></span>
+            </div>
+
+            <div class="create-form-group">
+                <label asp-for="OptionA"></label>
+                <input asp-for="OptionA" class="create-input" placeholder="Seçenek A..." />
+            </div>
+
+            <div class="create-form-group">
+                <label asp-for="OptionB"></label>
+                <input asp-for="OptionB" class="create-input" placeholder="Seçenek B..." />
+            </div>
+
+            <div class="create-form-group">
+                <label asp-for="OptionC"></label>
+                <input asp-for="OptionC" class="create-input" placeholder="Seçenek C..." />
+            </div>
+
+            <div class="create-form-group">
+                <label asp-for="OptionD"></label>
+                <input asp-for="OptionD" class="create-input" placeholder="Seçenek D..." />
+            </div>
+
+            <div class="create-form-group">
+                <label asp-for="CorrectOption"></label>
+                <select asp-for="CorrectOption" class="create-input">
+                    <option value="A">A</option>
+                    <option value="B">B</option>
+                    <option value="C">C</option>
+                    <option value="D">D</option>
+                </select>
+            </div>
+
+            <div class="create-form-group">
+                <label asp-for="SelectedTestId">Test Seç</label>
+                <select asp-for="SelectedTestId" asp-items="Model.Tests" class="create-input">
+                    <option value="">-- Test Seçiniz --</option>
+                </select>
+            </div>
+
+            <button type="submit" class="create-btn-submit">
+                <i class="fas fa-save"></i> Kaydet
+            </button>
+        </form>
+    </div>
+</main>

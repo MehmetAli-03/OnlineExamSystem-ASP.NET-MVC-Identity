@@ -1,0 +1,669 @@
+body {
+  background: #0f1724;
+  font-family: Inter, sans-serif;
+  color: white;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* NAVBAR */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 40px;
+  background: rgba(255, 255, 255, 0.03);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.brand a {
+  color: #6ee7b7; /* Ana yazının rengi */
+  font-weight: 700;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.logo {
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+  background: linear-gradient(135deg, #6ee7b7, #60a5fa);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #06203a;
+  font-weight: 700;
+}
+
+.nav-links a {
+  color: rgba(255, 255, 255, 0.85);
+  text-decoration: none;
+  margin-left: 20px;
+  font-size: 14px;
+}
+
+.nav-links a:hover {
+  color: white;
+}
+.hero {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex: 1;
+  padding: 80px 20px;
+  gap: 20px;
+}
+.hero h1 {
+  font-size: 48px;
+  margin: 0;
+  color: #6ee7b7;
+}
+.hero p {
+  font-size: 18px;
+  max-width: 600px;
+  color: rgba(255, 255, 255, 0.85);
+}
+.hero a {
+  display: inline-block;
+  padding: 14px 28px;
+  border-radius: 10px;
+  background: linear-gradient(90deg, #60a5fa, #6ee7b7);
+  color: #05223b;
+  font-weight: 700;
+  text-decoration: none;
+  margin-top: 20px;
+  transition: opacity 0.2s ease;
+}
+.hero a:hover {
+  opacity: 0.9;
+}
+/* FOOTER */
+footer {
+  background: rgba(255, 255, 255, 0.03);
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+  text-align: center;
+  padding: 20px;
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+/* ================================== */
+/* 🔹 LOGIN & KAYIT OL KUTUSU AYARLARI */
+.auth-container {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 20px;
+  min-height: calc(100vh - 80px); /* Navbar + footer boşluğu */
+}
+
+/* 🔹 FORM KARTI */
+.auth-box {
+  background: linear-gradient(180deg, #06263d 0%, #041a2f 100%);
+  border-radius: 16px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.6);
+  width: 100%;
+  max-width: 420px;
+  padding: 40px 36px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: stretch;
+  gap: 20px;
+  text-align: center;
+}
+
+/* 🔹 BAŞLIK */
+.auth-box h2 {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+/* 🔹 FORM ELEMANLARI */
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.input-field {
+  width: 100%;
+  padding: 12px 14px;
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  background: rgba(255, 255, 255, 0.05);
+  color: white;
+  font-size: 14px;
+  transition: all 0.2s ease;
+}
+
+.input-field::placeholder {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.input-field:focus {
+  border-color: #6ee7b7;
+  outline: none;
+  background: rgba(255, 255, 255, 0.08);
+}
+
+/* 🔹 GİRİŞ / KAYIT BUTONU */
+.btn,
+.btn-login {
+  padding: 12px;
+  border-radius: 8px;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+  font-size: 15px;
+  background: linear-gradient(90deg, #60a5fa, #6ee7b7);
+  color: #05223b;
+  transition: opacity 0.2s ease, transform 0.1s ease;
+}
+
+.btn:hover,
+.btn-login:hover {
+  opacity: 0.9;
+  transform: scale(1.02);
+}
+
+/* 🔹 ALTTAKİ "Kayıt Ol" / "Giriş Yap" METNİ */
+.switch-text,
+.login-footer {
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.7);
+  text-align: center;
+  margin-top: 10px;
+}
+
+.switch-text a,
+.login-footer a {
+  color: #6ee7b7;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.switch-text a:hover,
+.login-footer a:hover {
+  text-decoration: underline;
+}
+
+/* 🔹 ŞİFRE GÖSTERME */
+.password-wrapper {
+  position: relative;
+}
+
+.toggle-password {
+  position: absolute;
+  right: 12px;
+  top: 11px;
+  cursor: pointer;
+  color: rgba(255, 255, 255, 0.6);
+  user-select: none;
+}
+
+/* 🔹 "Beni Hatırla" */
+.form-remember {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.7);
+}
+/*Hero2**********/
+.exam-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  gap: 24px;
+  max-width: 1300px;
+  width: 100%;
+}
+
+.exam-card {
+  background: linear-gradient(180deg, #04243a 0%, #062b40 100%);
+  border-radius: 12px;
+  margin: 30px;
+  padding: 20px;
+  color: white;
+  box-shadow: 0 6px 26px rgba(2, 8, 23, 0.6);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.exam-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 32px rgba(2, 8, 23, 0.8);
+}
+
+.exam-card h3 {
+  margin: 0 0 6px;
+  font-size: 18px;
+}
+
+.exam-card .header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.exam-card .exam-info {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 12px;
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.btn-row {
+  display: flex;
+  gap: 10px;
+  margin-top: 16px;
+}
+
+.btn {
+  flex: 1;
+  padding: 10px 0;
+  border-radius: 10px;
+  font-weight: 600;
+  font-size: 14px;
+  border: 0;
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+}
+
+.btn-primary {
+  background: linear-gradient(90deg, #60a5fa, #6ee7b7);
+  color: #05223b;
+}
+
+.btn-outline {
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.btn:hover {
+  opacity: 0.9;
+}
+/*ForgotPassword*/
+/* 🔸 Şifre Sıfırlama özel stilleri */
+.forgot-form {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  gap: 6px;
+}
+
+.form-label {
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 14px;
+  font-weight: 500;
+  margin-left: 2px;
+}
+
+.validation-summary {
+  font-size: 13px;
+  color: #f87171;
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.exam-screen-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 30px;
+}
+
+.exam-screen {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 18px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+  width: 100%;
+  max-width: 800px;
+  padding: 40px 50px;
+  backdrop-filter: blur(10px);
+}
+
+.exam-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.exam-title {
+  font-size: 26px;
+  font-weight: 700;
+  color: #6ee7b7;
+}
+
+.timer {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 8px 18px;
+  border-radius: 999px;
+  font-weight: 600;
+  color: #fff;
+}
+
+.question-box {
+  background: rgba(255, 255, 255, 0.06);
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 25px;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.question-number {
+  color: #93c5fd;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.question-text {
+  font-size: 18px;
+  margin-bottom: 15px;
+  line-height: 1.5;
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.option {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 14px;
+  background: rgba(255, 255, 255, 0.04);
+  border-radius: 8px;
+  transition: 0.2s;
+  cursor: pointer;
+}
+
+.option:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+input[type="radio"] {
+  accent-color: #6ee7b7;
+  transform: scale(1.2);
+}
+
+.exam-footer {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.btn {
+  padding: 14px 32px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 16px;
+  transition: 0.3s;
+}
+
+.btn-primary {
+  background: linear-gradient(90deg, #6ee7b7, #3b82f6);
+  color: #05223b;
+}
+
+.btn-primary:hover {
+  background: linear-gradient(90deg, #34d399, #60a5fa);
+}
+.result-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #0f172a, #1e293b);
+  font-family: "Poppins", sans-serif;
+}
+
+.result-card {
+  background: rgba(255, 255, 255, 0.06);
+  padding: 50px 60px;
+  border-radius: 18px;
+  text-align: center;
+  box-shadow: 0 10px 35px rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(10px);
+  max-width: 600px;
+  width: 90%;
+  color: #fff;
+}
+
+.result-card h2 {
+  color: #6ee7b7;
+  font-weight: 700;
+  margin-bottom: 25px;
+}
+
+.result-stats p {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+.btn-outline {
+  margin-top: 25px;
+  background: transparent;
+  color: #6ee7b7;
+  border: 2px solid #6ee7b7;
+  padding: 12px 28px;
+  border-radius: 8px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.btn-outline:hover {
+  background: #6ee7b7;
+  color: #05223b;
+}
+
+.user-results-container {
+  max-width: 1200px;
+  margin: 50px auto;
+  padding: 0 20px;
+}
+
+.results-heading {
+  text-align: center;
+  color: #6ee7b7;
+  font-size: 36px;
+  margin-bottom: 30px;
+  font-weight: 700;
+}
+
+.no-results-text {
+  text-align: center;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 18px;
+}
+
+.results-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 28px;
+}
+
+.test-result-card {
+  background: rgba(4, 36, 58, 0.85);
+  border-radius: 16px;
+  padding: 25px 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: all 0.3s ease;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.test-result-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 14px 32px rgba(0, 0, 0, 0.7);
+}
+
+.card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.test-title {
+  font-size: 20px;
+  margin: 0;
+  color: #fff;
+}
+
+.result-badge {
+  background: #6ee7b7;
+  color: #05223b;
+  font-weight: 700;
+  padding: 6px 14px;
+  border-radius: 999px;
+  font-size: 14px;
+}
+
+.card-middle {
+  margin-bottom: 20px;
+}
+
+.score-details {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 10px;
+  font-size: 15px;
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.card-bottom {
+  display: flex;
+  justify-content: center;
+}
+
+.btn-view-test {
+  padding: 10px 28px;
+  border-radius: 12px;
+  font-weight: 600;
+  text-decoration: none;
+  background: linear-gradient(90deg, #6ee7b7, #3b82f6);
+  color: #05223b;
+  transition: 0.3s;
+}
+
+.btn-view-test:hover {
+  background: linear-gradient(90deg, #34d399, #60a5fa);
+}
+
+/* Container */
+.big-auth-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: #0f1724;
+  padding: 40px 20px;
+}
+
+/* Form Kartı */
+.big-form-card {
+  background: rgba(4, 36, 58, 0.95);
+  padding: 50px 40px;
+  border-radius: 20px;
+  max-width: 450px;
+  width: 100%;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.7);
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  text-align: center;
+  transition: transform 0.3s ease;
+}
+
+.big-form-card:hover {
+  transform: translateY(-5px);
+}
+
+/* Başlık */
+.big-form-card h2 {
+  color: #6ee7b7;
+  font-size: 28px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+/* Form Grup */
+.big-form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  text-align: left;
+}
+
+/* Inputlar */
+.big-input {
+  width: 100%;
+  padding: 14px 16px;
+  font-size: 16px;
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  background: rgba(255, 255, 255, 0.05);
+  color: #fff;
+  transition: all 0.2s ease;
+}
+
+.big-input::placeholder {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.big-input:focus {
+  border-color: #6ee7b7;
+  outline: none;
+  background: rgba(255, 255, 255, 0.08);
+}
+
+/* Buton */
+.big-btn {
+  padding: 14px;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  background: linear-gradient(90deg, #60a5fa, #6ee7b7);
+  color: #05223b;
+  transition: transform 0.1s ease, opacity 0.2s ease;
+}
+
+.big-btn:hover {
+  transform: scale(1.03);
+  opacity: 0.9;
+}

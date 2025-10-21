@@ -1,0 +1,36 @@
+@model List<dotnet_ex.Models.TestResult>
+
+<main class="user-results-container">
+    <h1 class="results-heading">Çözdüğüm Testler</h1>
+
+    @if (!Model.Any())
+    {
+        <p class="no-results-text">Henüz hiç test çözmediniz.</p>
+    }
+    else
+    {
+        <div class="results-grid">
+            @foreach (var result in Model)
+            {
+                <div class="test-result-card">
+                    <div class="card-top">
+                        <h2 class="test-title">@result.Test.Title</h2>
+                        <span class="result-badge">@((result.TotalScore * 100) / result.TotalQuestions)%</span>
+                    </div>
+                    <div class="card-middle">
+                        <div class="score-details">
+                            <p><strong>Doğru:</strong> @result.TotalScore</p>
+                            <p><strong>Yanlış:</strong> @(result.TotalQuestions - result.TotalScore)</p>
+                            <p><strong>Toplam Soru:</strong> @result.TotalQuestions</p>
+                        </div>
+                    </div>
+                    <div class="card-bottom">
+                        <a asp-controller="Test" asp-action="Details" asp-route-id="@result.TestId" class="btn-view-test">
+                            Testi Görüntüle
+                        </a>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</main>

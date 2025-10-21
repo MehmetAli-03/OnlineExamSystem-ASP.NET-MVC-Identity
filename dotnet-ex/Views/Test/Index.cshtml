@@ -1,0 +1,25 @@
+@model List<dotnet_ex.Models.Test>
+
+<h2 style="font-size:25px; text-align:center">Sınavlar</h2>
+<div class="exam-grid">
+    @foreach (var test in Model)
+    {
+        <div class="exam-card">
+            <div class="header">
+                <div>
+                    <h3>@test.Title</h3>
+                    <div style="font-size: 13px; color:white">
+                        Süre: @test.DurationMinutes dk • @(test.Questions?.Count ?? 0) Soru
+                    </div>
+                </div>
+            </div>
+            <div class="exam-info">
+                <div><strong>Durum</strong><br />Açık</div>
+                <div><strong>Geçerlilik</strong><br />30 gün</div>
+            </div>
+            <div class="btn-row">
+                <a asp-controller="Test" asp-action="Details" asp-route-id="@test.Id" class="btn btn-primary">Çöz</a>
+            </div>
+        </div>
+    }
+</div>

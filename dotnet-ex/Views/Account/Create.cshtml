@@ -1,0 +1,52 @@
+@model dotnet_ex.Models.AccountCreateModel
+
+<main class="auth-container">
+    <div class="auth-box">
+        <h2>Kayıt Ol</h2>
+
+        <form asp-action="Create" asp-controller="Account" method="post" novalidate>
+            <div asp-validation-summary="All" class="text-danger"></div>
+
+            <div class="form-group">
+                <input asp-for="FullName" class="input-field" placeholder="Ad Soyad" />
+                <span asp-validation-for="FullName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input asp-for="StudentNo" class="input-field" placeholder="Öğrenci No" />
+                <span asp-validation-for="StudentNo" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input asp-for="Sinifİnfo" class="input-field" placeholder=" Bölün (örn:Yazılım Müh)" />
+                <span asp-validation-for="Sinifİnfo" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input asp-for="Email" type="email" class="input-field" placeholder="E-posta" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+            <div class="form-group password-wrapper">
+                <input asp-for="Password" type="password" id="passwordInput" class="input-field" placeholder="Şifre" />
+                <span class="toggle-password" onclick="togglePassword()">👁️</span>
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn">Kayıt Ol</button>
+        </form>
+
+        <div class="switch-text">
+            Zaten hesabınız var mı?
+            <a asp-controller="Account" asp-action="Login">Giriş Yap</a>
+        </div>
+    </div>
+</main>
+
+<script>
+    function togglePassword() {
+        const passwordInput = document.getElementById("passwordInput");
+        const type = passwordInput.getAttribute("type") === "password" ? "text" : "password";
+        passwordInput.setAttribute("type", type);
+    }
+</script>

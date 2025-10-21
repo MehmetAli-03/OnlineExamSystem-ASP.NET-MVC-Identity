@@ -1,0 +1,41 @@
+<header class="navbar">
+  <div class="brand">
+    <div class="logo">OS</div>
+    <span>
+    <a asp-controller="Test" asp-action="Index">OnlineSınav</a></span>
+  </div>
+
+  <nav class="nav-links">
+    @if (User.Identity?.IsAuthenticated == true)
+    {
+        @if (User.IsInRole("Admin"))
+        {
+            <a asp-controller="Admin" asp-action="Index">
+                <i class="fa-solid fa-lock"></i> Admin
+            </a>
+        }
+        <a asp-controller="Account" asp-action="ChangePassword">
+            <i class="fa-solid fa-user"></i> Hesabım
+        </a>
+        <a asp-controller="Test" asp-action="MyResults">
+            <i class="fa-solid fa-square-poll-vertical"></i>Sonuçlarım
+        </a>
+        <a asp-controller="Account" asp-action="LogOut">
+            <i class="fa-solid fa-right-to-bracket"></i> Çıkış
+        </a>
+    }
+    else
+    {
+        <a asp-controller="Account" asp-action="Login">
+            <i class="fa-solid fa-right-to-bracket"></i> Giriş Yap
+        </a>
+        <a asp-controller="Account" asp-action="Create">
+            <i class="fa-solid fa-user-plus"></i> Kayıt Ol
+        </a>
+    }
+
+    <a asp-controller="Home" asp-action="Help">
+      <i class="fa-solid fa-circle-question"></i> Yardım
+    </a>
+  </nav>
+</header>

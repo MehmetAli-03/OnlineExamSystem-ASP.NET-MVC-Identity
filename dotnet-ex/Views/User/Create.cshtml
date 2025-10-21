@@ -1,0 +1,27 @@
+@model dotnet_ex.Models.UserCreateModel
+@{
+    Layout = "_AdminLayout";
+}
+<main class="create-form-container">
+    <div class="create-form-box">
+        <h2>Yeni Kullanıcı Ekle</h2>
+        <form method="post" novalidate>
+            <div asp-validation-summary="All" class="text-danger"></div>
+
+            <div class="create-form-group">
+                <label asp-for="FullName"></label>
+                <input asp-for="FullName" class="create-input" placeholder="Kullaınıcı adını giriniz..." />
+                <span asp-validation-for="FullName" class="text-danger"></span>
+            </div>
+             <div class="create-form-group">
+                <label asp-for="Email"></label>
+                <input asp-for="Email" class="create-input" placeholder="Mail Adresi giriniz..." />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="create-btn-submit">
+                <i class="fas fa-save"></i> Kaydet
+            </button>
+        </form>
+    </div>
+</main>

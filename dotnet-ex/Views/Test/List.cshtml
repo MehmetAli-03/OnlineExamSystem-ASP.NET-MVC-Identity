@@ -1,0 +1,56 @@
+@model List<dotnet_ex.Models.Test>
+
+@{
+    Layout = "_AdminLayout";
+}
+
+<div class="container" id="urunler">
+    <div class="card-header d-flex justify-content-between align-items-center mb-3">
+        <h2>Testler Listesi</h2>
+        <a asp-action="Create" class="btn btn-primary">
+            <i class="fas fa-plus"></i> Test Ekle
+        </a>
+    </div>
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Test Id</th>
+                <th>Test Adı</th>
+                <th>Test İçeriği</th>
+                <th>Soru Sayısı</th>
+                <th>Test Süresi</th>
+                <th>İşlemler</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var test in Model)
+            {
+                <tr>
+                    <td>@test.Id</td>
+                    <td>@test.Title</td>
+                    <td>@test.Description</td>
+                    <td>@(test.Questions?.Count ?? 0)</td>
+                    <td>@test.DurationMinutes dk</td>
+                    <td class="action-icons">
+                        <a asp-action="Edit" asp-route-id="@test.Id" class="btn btn-sm btn-warning">
+                            <i class="fas fa-edit"></i>
+                        </a>
+
+                        <form asp-action="Delete" asp-route-id="@test.Id" method="post" style="display:inline" 
+                              onsubmit="return confirm('Bu testi silmek istediğinize emin misiniz?');">
+                            <input type="hidden" name="id" value="@test.Id" />
+                            <button type="submit" class="btn btn-sm btn-danger">
+                                <i class="fas fa-trash"></i>
+                            </button>
+                        </form>
+
+                        <a asp-action="Details" asp-route-id="@test.Id" class="btn btn-sm btn-info">
+                            <i class="fas fa-info-circle"></i>
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

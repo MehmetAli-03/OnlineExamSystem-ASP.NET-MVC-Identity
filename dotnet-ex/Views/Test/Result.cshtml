@@ -1,0 +1,13 @@
+@model dotnet_ex.Models.TestResult
+
+<div class="result-container">
+    <div class="result-card">
+        <h2>@Model.Test.Title Sonucu</h2>
+        <div class="result-stats">
+            <p><strong>Toplam Soru:</strong> @Model.TotalQuestions</p>
+            <p><strong>Doğru Sayısı:</strong> @Model.TotalScore</p>
+            <p><strong>Başarı Yüzdesi:</strong> @(Model.TotalScore * 100 / Model.TotalQuestions)%</p>
+        </div>
+        <a asp-action="Index" class="btn btn-outline">Ana Sayfaya Dön</a>
+    </div>
+</div>

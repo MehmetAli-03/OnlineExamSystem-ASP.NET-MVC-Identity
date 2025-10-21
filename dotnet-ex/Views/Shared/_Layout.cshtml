@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Online Exam Software</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="~/css/style.css" />
+  </head>
+  <body>
+    <!-- Navbar -->
+    @await Html.PartialAsync("Partials/_Navbar")
+
+    @if (TempData["Mesaj"] != null)
+    {
+        <div class="alert alert-info" style="margin: 20px; padding: 15px; border-radius: 5px; background-color: #e0f7fa; color: #00796b;">
+            @TempData["Mesaj"]
+        </div>
+    }
+
+    @RenderBody()
+
+   
+    @await Html.PartialAsync("Partials/_Footer")
+  </body>
+</html>
